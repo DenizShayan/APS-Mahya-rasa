@@ -28,12 +28,12 @@ let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
 //concat
 
-// let numbers2 = [10, 11];
-// console.log([...numbers, ...numbers2]);
+let numbers2 = [10, 11];
+console.log([...numbers, ...numbers2]);
 
 //map , filter , some  every fine reduce foreach
 
-// for (const [i, number] of numbers.entries()) {
+for (const [i, number] of numbers.entries()) {
 //   console.log(i);
 //   console.log(number);
 // }

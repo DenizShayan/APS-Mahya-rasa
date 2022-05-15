@@ -7,7 +7,7 @@ const shirin = {
   name: "shirin",
   age: 18,
   sayHi() {
-    return "hi, i am shirin";
+    return "hi, I am shirin";
   },
   [jobKey]: "teacher",
 };
